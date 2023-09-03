@@ -1,5 +1,5 @@
 # SideScrollerPlatformerController
-Currently I don't have time to make new games so I'm releasing this prototype that I've made for Side Scroller Characters.
+Currently I don't have time for making new games so I'm releasing this prototype that I've made for Side Scroller Characters.
 
 It includes things like Jump Buffering, coyote time etc.
 
