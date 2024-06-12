@@ -1,11 +1,7 @@
 # SideScrollerPlatformerController
 Currently I don't have time for making new games so I'm releasing this prototype that I've made for Side Scroller Characters.
 
-It includes things like Jump Buffering, coyote time etc.
-
-CollisionCheck script is from https://www.youtube.com/watch?v=lcw6nuc2uaU this tutorial. Back then I used this code in an another prototype but with this one I used my own scripts except CollisionCheck.
-
 controls:
-space to activate the rotate mechanic
+space to activate the rotate mechanic and q-e to rotate
 c to jump
 a/d to move 
